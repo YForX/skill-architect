@@ -108,6 +108,6 @@ skill-architect/
 
 [MIT License](./LICENSE) · 自由使用 / 修改 / 再分发
 
-Made by [@YeYueXingl](https://github.com/YeYueXingl)
+Made by [Y For X](https://github.com/YeYueXingl)
 
 </div>

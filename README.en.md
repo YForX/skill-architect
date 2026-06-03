@@ -111,6 +111,6 @@ skill-architect/
 
 [MIT License](./LICENSE) · Free to use, modify, and redistribute
 
-Made by [@YeYueXingl](https://github.com/YeYueXingl)
+Made by [Y For X](https://github.com/YeYueXingl)
 
 </div>

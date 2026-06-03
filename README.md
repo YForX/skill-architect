@@ -1,6 +1,6 @@
 <div align="center">
 
-[中文](#-skill-architect) · [English](./README.en.md)
+**中文** · [English](./README.en.md)
 
 # 🏗️ Skill Architect
 
